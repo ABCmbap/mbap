@@ -17,11 +17,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bankabc.cs3350517</string>
+				<string>com.bankabc.iphonerelease</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>cs3350520</string>
+				<string>abciphone325</string>
 			</dict>
 		</dict>
 	</array>
