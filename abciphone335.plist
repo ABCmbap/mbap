@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://mobile.abchina.com/download/clientDownload/zh_CN/PreinstallPkg/abciphone335.ipa</string>
+					<string>http://mobile.abchina.com/download/clientDownload/zh_CN/PreinstallPkg/cs3450728.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -21,7 +21,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>abciphone335</string>
+				<string>cs3450728</string>
 			</dict>
 		</dict>
 	</array>
