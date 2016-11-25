@@ -12,17 +12,17 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://mobile.abchina.com/download/clientDownload/zh_CN/PreinstallPkg/1117350yl.ipa</string>
+					<string>http://mobile.abchina.com/download/clientDownload/zh_CN/PreinstallPkg/upt350yl.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bankabc.iphonereleasenewYL</string>
+				<string>com.bankabc.iphonereleaseylupt</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>yanlian335</string>
+				<string>yanlian350</string>
 			</dict>
 		</dict>
 	</array>
